@@ -22,6 +22,9 @@ project.
 
 ## Where it sits
 
+Design: [platform layering decision](https://github.com/KismoTech/.github/blob/main/docs/decisions/0001-platform-layering.md) · [repository map](https://github.com/KismoTech/.github/blob/main/docs/repositories.md) ·
+upstream [Sub0 libraries](https://github.com/CraigHutchinson/.github/blob/main/docs/sub0-family.md).
+
 ```text
  products (Kismo products, Crucible, your project)
         │
